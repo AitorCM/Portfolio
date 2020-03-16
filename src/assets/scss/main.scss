@@ -903,7 +903,7 @@
 		@include vendor('justify-content', 'space-between');
 		background-color:		_palette(accent2, bg);
 		background-attachment:	scroll,								fixed;
-		background-image:		url('images/overlay.png'),			url('../images/bg.jpg');
+		background-image:		url('images/overlay.png'),			url('../images/bg1.jpg');
 		background-position:	top left,							top left;
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								auto 100%;
@@ -951,7 +951,7 @@
 
 	#footer {
 		.icons {
-			margin: (_size(element-margin) * 0.5) 0 0 0;
+			margin: (_size(element-margin) * 0.5) 5 0 0;
 
 			a {
 				color: _palette(accent2, fg-light);
