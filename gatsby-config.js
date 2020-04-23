@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   siteMetadata: {
     title: "AitorCM",
@@ -19,6 +23,18 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
-    'gatsby-plugin-offline'
+    'gatsby-plugin-offline',
+    {
+      resolve: `gatsby-source-prismic`,
+      options: {
+        repositoryName: `aitorcm-portfolio`,
+        accessToken: `${process.env.API_KEY}`,
+        linkResolver: ({ node, key, value }) => post => `/${post.uid}`,
+        schemas: {
+          description: require('./src/schemas/description.json'),
+          blog_post: require('./src/schemas/post.json'),
+        },
+      },
+    },
   ],
 }
