@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Uptime`,
     author: {
-      name: `Aitor Carricondo`,
+      name: `Aitor`,
       summary: `Ingeniero Informático y cacharreador por hobby`,
     },
     description: `Gatsby Blog for Personal Projects.`,

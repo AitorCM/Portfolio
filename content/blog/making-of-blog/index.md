@@ -1,13 +1,12 @@
 ---
 title: Como se ha hecho este blog?
 date: "2020-04-24"
-description: Entrada del blog para explicar las tecnologías detrás de la creación del mismo.
+description: En este post voy a explicar con que tecnologías y servicios he creado este blog.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+Este blog ha sido creando varias tecnologías y servicios gratuitos, los cuales, ofrecen las suficientes facilidades para montar una web o un blog con poco tiempo y poco esfuerzo, tal y como me gusta a mí 😃.
+
+
 
 ## On deer horse aboard tritely yikes and much
 
