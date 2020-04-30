@@ -6,6 +6,12 @@ description: En este post voy a explicar con que tecnologías y servicios he cre
 
 Este blog ha sido creando varias tecnologías y servicios gratuitos, los cuales, ofrecen las suficientes facilidades para montar una web o un blog con poco tiempo y poco esfuerzo, tal y como me gusta a mí 😃.
 
+Dicho esto, paso a enumerar las tecnologías y servicios que se han utilizado.
+
+- Gatsby para la UI.
+- Netlify para hostear la web, y manejar el CI/CD de la misma.
+
+
 
 
 ## On deer horse aboard tritely yikes and much
