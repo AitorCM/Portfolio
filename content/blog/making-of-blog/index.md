@@ -8,8 +8,9 @@ Este blog ha sido creando varias tecnologías y servicios gratuitos, los cuales,
 
 Dicho esto, paso a enumerar las tecnologías y servicios que se han utilizado.
 
-  - Gatsby para la UI.
-  - Netlify para hostear la web, y manejar el CI/CD de la misma.
+  - [React](https://reactjs.org/) + [Gatsby](https://www.gatsbyjs.org/) para la UI.
+  - [Markdown](https://www.markdownguide.org/) para el texto.
+  - [Netlify](https://www.netlify.com/) para hostear la web, y manejar el CI/CD de la misma.
 
 
 
